@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Uditi Online Centre</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{font-family:Arial;margin:0;background:#f4f6f8}
+header{background:#0b5ed7;color:#fff;padding:20px;text-align:center}
+section{padding:20px}
+.box{background:#fff;padding:15px;margin-bottom:15px;border-radius:6px}
+h2{color:#0b5ed7}
+footer{background:#222;color:#fff;text-align:center;padding:10px}
+a.btn{background:#0b5ed7;color:#fff;padding:10px 15px;text-decoration:none;border-radius:4px}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Uditi Online Centre</h1>
+<p>Your trusted online service centre</p>
+<a class="btn" href="tel:7371926908">Call / WhatsApp</a>
+</header>
+
+<section>
+<div class="box">
+<h2>About Us</h2>
+<p>Uditi Online Centre is a trusted online service centre located at Judge Bazar, Bihiya, Bhojpur, Bihar. We provide fast, reliable and affordable digital and government-related services.</p>
+</div>
+
+<div class="box">
+<h2>Our Services</h2>
+<ul>
+<li>Aadhaar Card Services</li>
+<li>PAN Card (New / Correction)</li>
+<li>Income, Caste & Residence Certificate</li>
+<li>Ration Card Services</li>
+<li>Online Form Filling</li>
+<li>Railway Ticket Booking</li>
+<li>Bill Voter Id Card</li>
+<li>Photo Copy <li>
+<li>All Other Online Services</li>
+</ul>
+</div>
+
+<div class="box">
+<h2>Contact Us</h2>
+<p><b>Mobile:</b> 7371926908</p>
+<p><b>Address:</b> Judge Bazar, Bihiya, Bhojpur, Bihar</p>
+</div>
+</section>
+
+<footer>
+© 2026 Uditi Online Centre
+</footer>
+
+</body>
+</html>
